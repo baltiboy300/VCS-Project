@@ -1,2 +1,2 @@
 def add(a, b):
-    return a + b  # version A
+    return a + b  # merged A and B
